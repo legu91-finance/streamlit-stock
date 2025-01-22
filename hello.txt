@@ -1,0 +1,4 @@
+-- build a streamlit Dashboard
+-- add yfinance and a add bar to add some stock tickers and so a user can fetch stock data from yfinance
+-- add quantstats so that a user can set portfolio weightings of the selected stock tickers and perform a historic strategy review with quantstats https://github.com/ranaroussi/quantstats
+-- make it beautiful
